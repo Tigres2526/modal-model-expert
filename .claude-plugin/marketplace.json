@@ -1,0 +1,12 @@
+{
+  "name": "modal-model-expert",
+  "owner": {
+    "name": "Tigres2526"
+  },
+  "plugins": [
+    {
+      "name": "modal-model-expert",
+      "source": "./"
+    }
+  ]
+}

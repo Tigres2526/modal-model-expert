@@ -1,0 +1,8 @@
+{
+  "name": "modal-model-expert",
+  "description": "Deploy and run fine-tuned LLMs on Modal serverless GPU platform with scale-to-zero autoscaling",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tigres2526"
+  }
+}
